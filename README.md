@@ -10,6 +10,6 @@
 2. Compsci 210, Compsci 220, Compsci 230, Compsci 225, Compsci 235, Gisci 242, Gisci 241, Stats 220
 3. Compsci 351, Compsci 331, Compsci 335, Gisci 341, Gisci 343, Accg 151g, Compsci 399/Gisci 399
 
-## *My favourite Courses So Far*
+## *My favorite Courses So Far*
 * [GEOG 103 : Mapping Our World](https://courseoutline.auckland.ac.nz/dco/course/GEOG/103/1245)
 * [GISCI 242 : Principles of GIScience](https://courseoutline.auckland.ac.nz/dco/course/GISCI/241/1245)
